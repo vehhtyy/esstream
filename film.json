@@ -1,0 +1,28 @@
+{
+  "title": "Miłość i brudne pieniądze Odcinek 1",
+  "duration": 1325,
+  "sources": [
+    {
+      "url": "https://vcze502.cda.pl/1sryKxkHhzYGU1174rHrWg/1669365998/hd93b46cda2f4f9f3032eaa4ab7b68b70f.mp4",
+      "contentType": "video/mp4",
+      "quality": 1080p
+    },
+    {
+      "url": "https://vcze502.cda.pl/E0SzUiUALefaU-LXr1WJGg/1669365998/sd93b46cda2f4f9f3032eaa4ab7b68b70f.mp4",
+      "contentType": "video/mp4",
+      "quality": 720p
+    },
+    {
+      "url": "https://vcze502.cda.pl/U48wJVXBPAewFtK1l7jR7Q/1669365998/lq93b46cda2f4f9f3032eaa4ab7b68b70f.mp4",
+      "contentType": "video/mp4",
+      "quality": 480p
+    },
+    {
+      "url": "https://vcze502.cda.pl/qGRgeq4OdtPTs4AyEWZ3KQ/1669365998/vl93b46cda2f4f9f3032eaa4ab7b68b70f.mp4",
+      "contentType": "video/mp4",
+      "quality": 360p
+    }
+  ],
+  "textTracks": [],
+  "peertube": "pony.tube;89qGxEMcsyACGVKwutWgUg"
+}
